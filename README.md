@@ -1,4 +1,4 @@
-# AA-PRNTR
+# AA-LP
 
 This typescript project uses [`permissionless`](https://docs.pimlico.io/permissionless) and [viem](https://viem.sh/) libraries to create SAFE Smart Accounts that are compatible with ERC4337 and perform transactions on Arbitrum using NEETH as a paymaster, using Pimilco as the bundler.
 
